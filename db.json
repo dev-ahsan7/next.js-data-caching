@@ -1,0 +1,156 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wired Headphones",
+      "price": 59.99,
+      "category": "Electronics",
+      "brand": "SoundMax",
+      "image": "https://picsum.photos/seed/headphones/600/600",
+      "rating": 4.5,
+      "stock": 25,
+      "description": "Comfortable wireless headphones with noise cancellation and long battery life."
+    },
+    {
+      "id": 2,
+      "name": "Traditional Watch",
+      "price": 89.99,
+      "category": "Wearables",
+      "brand": "TechTime",
+      "image": "https://picsum.photos/seed/smartwatch/600/600",
+      "rating": 4.3,
+      "stock": 18,
+      "description": "Modern smartwatch with fitness tracking, heart-rate monitoring, and notifications."
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "price": 74.99,
+      "category": "Footwear",
+      "brand": "RunPro",
+      "image": "https://picsum.photos/seed/runningshoes/600/600",
+      "rating": 4.7,
+      "stock": 32,
+      "description": "Lightweight and comfortable running shoes designed for everyday workouts."
+    },
+    {
+      "id": 4,
+      "name": "Leather Backpack",
+      "price": 49.99,
+      "category": "Bags",
+      "brand": "UrbanCarry",
+      "image": "https://picsum.photos/seed/backpack/600/600",
+      "rating": 4.4,
+      "stock": 15,
+      "description": "Stylish leather backpack with multiple compartments for work and travel."
+    },
+    {
+      "id": 5,
+      "name": "Mechanical Keyboard",
+      "price": 69.99,
+      "category": "Computer Accessories",
+      "brand": "KeyMaster",
+      "image": "https://picsum.photos/seed/keyboard/600/600",
+      "rating": 4.6,
+      "stock": 20,
+      "description": "RGB mechanical keyboard with tactile switches and customizable lighting."
+    },
+    {
+      "id": 6,
+      "name": "Portable Bluetooth Speaker",
+      "price": 39.99,
+      "category": "Audio",
+      "brand": "BeatBox",
+      "image": "https://picsum.photos/seed/speaker/600/600",
+      "rating": 4.2,
+      "stock": 40,
+      "description": "Compact Bluetooth speaker with powerful sound and up to 12 hours of battery life."
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 15.99,
+      "category": "Fiction",
+      "rating": 4.6,
+      "pages": 208,
+      "publishedYear": 1988,
+      "language": "English",
+      "inStock": true,
+      "coverImage": "https://picsum.photos/seed/alchemist/400/600",
+      "description": "A young shepherd travels in search of treasure and discovers the importance of following his dreams."
+    },
+    {
+      "id": 2,
+      "title": "Atomic Habit",
+      "author": "James Clear",
+      "price": 18.99,
+      "category": "Self-Help",
+      "rating": 4.8,
+      "pages": 320,
+      "publishedYear": 2018,
+      "language": "English",
+      "inStock": true,
+      "coverImage": "https://picsum.photos/seed/atomichabits/400/600",
+      "description": "A practical guide to building good habits, breaking bad ones, and making small changes that create remarkable results."
+    },
+    {
+      "id": 3,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "price": 16.99,
+      "category": "Finance",
+      "rating": 4.5,
+      "pages": 336,
+      "publishedYear": 1997,
+      "language": "English",
+      "inStock": true,
+      "coverImage": "https://picsum.photos/seed/richdad/400/600",
+      "description": "A personal finance book that explores different attitudes toward money, investing, and financial independence."
+    },
+    {
+      "id": 4,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "price": 19.99,
+      "category": "Finance",
+      "rating": 4.7,
+      "pages": 256,
+      "publishedYear": 2020,
+      "language": "English",
+      "inStock": true,
+      "coverImage": "https://picsum.photos/seed/psychologyofmoney/400/600",
+      "description": "A collection of stories and lessons about how people think about money, wealth, risk, and financial decisions."
+    },
+    {
+      "id": 5,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": 29.99,
+      "category": "Programming",
+      "rating": 4.6,
+      "pages": 464,
+      "publishedYear": 2008,
+      "language": "English",
+      "inStock": true,
+      "coverImage": "https://picsum.photos/seed/cleancode/400/600",
+      "description": "A guide to writing readable, maintainable, and professional-quality software code."
+    },
+    {
+      "id": 6,
+      "title": "The Pragmatic Programmer",
+      "author": "David Thomas",
+      "price": 27.99,
+      "category": "Programming",
+      "rating": 4.7,
+      "pages": 352,
+      "publishedYear": 1999,
+      "language": "English",
+      "inStock": false,
+      "coverImage": "https://picsum.photos/seed/pragmaticprogrammer/400/600",
+      "description": "Practical advice and techniques for becoming a better, more effective, and professional programmer."
+    }
+  ]
+}
