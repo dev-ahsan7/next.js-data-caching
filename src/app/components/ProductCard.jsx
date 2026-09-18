@@ -1,7 +1,10 @@
+'use client';
 import Image from 'next/image';
-import React from 'react';
+import useUser from '../hooks/useUsers';
 
 const ProductCard = ({ product }) => {
+  const user = useUser();
+  console.log('user from userCard', user);
   return (
     <div className="card bg-base-100 shadow-sm">
       <figure>

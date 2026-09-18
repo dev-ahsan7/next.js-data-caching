@@ -1,6 +1,10 @@
+'use client';
 import Link from 'next/link';
+import useUser from '../hooks/useUsers';
 
 const Navbar = () => {
+  const user = useUser();
+  console.log(user);
   const links = (
     <>
       <li>
